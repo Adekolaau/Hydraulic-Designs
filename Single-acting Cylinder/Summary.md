@@ -2,6 +2,8 @@
 
 In this project, I designed a single-acting hydraulic cylinder system using FluidSim. The system features:
 
+![Screenshot 2024-07-28 122408](https://github.com/user-attachments/assets/3293d545-dcd6-434b-a785-e34ee7105107)
+
 - 1 Single-Acting Cylinder
 - 3 Tanks: Tank 1 is connected to a filter and a fixed displacement pump, Tank 2 receives excess pressure via a relief valve, and Tank 3 receives fluid from the DCV.
 - 1 Filter
