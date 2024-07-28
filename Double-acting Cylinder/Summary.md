@@ -2,6 +2,8 @@
 
 Using FluidSim, I designed a comprehensive double-acting hydraulic cylinder system, showcasing my ability to create intricate hydraulic circuits. The system includes the following components and flow:
 
+![Screenshot 2024-07-26 200332](https://github.com/user-attachments/assets/c2c36def-498f-42dc-802b-d446a74d4b06)
+
 1. *Tank:* The hydraulic fluid is stored in the tank.
 2. *Filter:* The fluid is filtered to remove impurities before entering the pumps.
 3. *Fixed Displacement Pumps (2):* Two pumps are used to pressurize the hydraulic fluid.
@@ -9,7 +11,7 @@ Using FluidSim, I designed a comprehensive double-acting hydraulic cylinder syst
 5. *Shut-Off Valve:* Allows the isolation of the hydraulic circuit for maintenance or safety purposes.
 6. *Manometer:* Measures the pressure in the line between the shuttle valve and the shut-off valve.
 7. *Pressure Relief Valve:* Protects the system from overpressure by diverting excess fluid back to the tank.
-8. *4/2-Way Hand-Lever Directional Control Valve (DCV):* Controls the direction of the fluid flow to the double-acting cylinder. It features a tandem type configuration with a hand lever and a spring return mechanism.
+8. *4/2-Way Hand-Lever Directional Control Valve (DCV):* Controls the direction of the fluid flow to the double-acting cylinder. It features a tandem-type configuration with a hand lever and a spring return mechanism.
 9. *Check Valve:* Ensures fluid flows in one direction, preventing backflow.
 10. *Double-Acting Cylinder:* The actuator that performs work in both directions.
 
